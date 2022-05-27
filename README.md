@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Ig: @reynaldy_mba
+- 📫 How to reach me Instagram: @reynaldy_mba
 
 <!---
 kokojimz/kokojimz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
