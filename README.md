@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kokojimz
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C Programming Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: @reynaldy_mba
 
