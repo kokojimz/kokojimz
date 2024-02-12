@@ -18,8 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kokojimz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
 ## Social Media
 
 <div align="left">
