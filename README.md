@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&color=00C503&center=true&vCenter=true&random=false&width=746&height=70&lines=Hi+there%F0%9F%91%8B!;My+name+is+Reynaldy+Marchell;I'm+a+Computer+Science+Student;+from+Bandung%2C++Indonesia)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://open.spotify.com/user/v16fporu9wzoeehgyxvahedxh">
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=v16fporu9wzoeehgyxvahedxh">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=v16fporu9wzoeehgyxvahedxh&count=5" alt="Spotify recently played"  />
   </a>
 </div>
